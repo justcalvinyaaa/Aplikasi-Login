@@ -1,0 +1,32 @@
+1.Tentukan kriteria yang akan digunakan sebagai referensi untuk pengambilan keputusan.
+2. Menentukan tingkat kecocokan setiap alternatif pada setiap kriteria.
+3. Menentukan bobot referensi tiap kriteria.
+4. Melakukan perkalian setiap atribut, gunakan bobot sebagai pangkat positif dari atribut keuntungan (benefit), dan 
+gunakan bobot sebagai pangkat negatif dari atribut biaya (cost).
+5. Hasil perkalian tersebut dijumlahkan 
+untuk menghasilkan nilai vektor V 
+untuk setiap alternatif. Nilai vektor V
+sendiri dapat dihitung dengan 
+persamaan 2:
+6. Mencari nilai alternatif dengan melakukan langkah yang sama seperti pada langkah satu, hanya saja menggunakan nilai tertinggi untuk 
+setiap atribut manfaat (benefit) dan nilai 
+terendah untuk atribut biaya (cost).
+7. Membagi nilai vektor V bagi setiap atribut dengan nilai kriteria.
+
+Berikut ini adalah prosedur penentuan nilai alternatif dengan menggunakan metode MAUT:
+
+
+
+
+Content creators are individuals or groups who create programming videos and upload them to social media platforms. They play a crucial role in providing information, tutorials and learning resources for beginners and professionals, especially in the field of programming. A decision support system is a tool used to solve a variety of problems, whether they are clear, vague or semi-obvious. The MAUT (Multi-Attribute Utility Theory) method is used to make decisions and rank the selected options by combining the attribute values of each alternative into a utility form by considering the utility characteristics and corresponding weights. After calculations using the MAUT method, the top four alternatives were identified as the best choices in the category of programme content creators. The first alternative, A1, representing UNPAS Web Programming, received a value of 0.848. The second alternative, A11, representing Dea Afrizal, received a value of 0.435. The third alternative, A10, representing Dicoding Indonesia, scored 0.405. This research aims to design and implement a decision support system for selecting the best programme for content creators on YouTube using the MAUT method. The results of this research are expected to help learners save time and effort in searching and selecting the best content creator programme according to their preferences.
+
+
+are individual or organizations that produce programming videos and post them on social media networks are known as content producers. They are essential in giving information, tutorials, and educational materials for both novices and experts, particularly in the field of programming. A decision support system is a tool used to address a range of issues, whether they are straightforward, ambiguous, or evident to some extent. By merging the attribute values of each alternative into a utility form and taking into account the utility features and accompanying weights, the MAUT (Multi-Attribute Utility Theory) technique is used to make judgments and rank the chosen options. 
+
+
+Pembuat konten adalah individu atau organisasi yang memproduksi video pemrograman dan mempostingnya di jaringan media sosial. Mereka sangat penting dalam memberikan informasi, tutorial dan materi pendidikan untuk pemula dan ahli, terutama di bidang pemrograman. Sistem pendukung keputusan adalah alat yang digunakan untuk mengatasi berbagai masalah, baik yang bersifat langsung, ambigu, atau agak jelas. Dengan menggabungkan nilai atribut dari setiap alternatif ke dalam bentuk utilitas dan mempertimbangkan karakteristik utilitas dan bobot terkait, teknik MAUT (Multi-Attribute Utility Theory) digunakan untuk membuat penilaian dan menentukan peringkat dari pilihan yang dipilih. Setelah perhitungan menggunakan metode MAUT, empat alternatif teratas diidentifikasi sebagai pilihan terbaik dalam kategori pembuat konten program. Alternatif pertama, A1, yang mewakili Pemrograman Web UNPAS, mendapatkan nilai 0.848. Alternatif kedua, A11, yang mewakili Dea Afrizal, mendapatkan nilai 0.435. Alternatif ketiga, A10, yang mewakili Dicoding Indonesia, memperoleh nilai 0,405. Penelitian ini bertujuan untuk merancang dan mengimplementasikan sistem pendukung keputusan pemilihan program terbaik untuk content creator di YouTube dengan menggunakan metode MAUT. Hasil dari penelitian ini diharapkan dapat membantu peserta didik dalam menghemat waktu dan tenaga dalam mencari dan memilih program terbaik untuk pembuat konten sesuai dengan preferensi mereka.
+
+
+Pembuat konten adalah individu atau organisasi yang memproduksi video pemrograman dan mempostingnya di jaringan media sosial. Mereka sangat penting dalam memberikan informasi, tutorial, dan materi edukasi untuk pemula dan ahli, terutama di bidang pemrograman. Sistem pendukung keputusan adalah alat yang digunakan untuk memecahkan berbagai masalah, baik yang bersifat langsung, ambigu, maupun yang agak jelas. Dengan menggabungkan nilai atribut dari setiap alternatif ke dalam bentuk utilitas dan mempertimbangkan karakteristik utilitas dan bobot yang terkait, teknik MAUT (Multi-Attribute Utility Theory) digunakan untuk membuat penilaian dan menentukan peringkat dari pilihan yang dipilih. Setelah perhitungan menggunakan metode MAUT, empat alternatif teratas diidentifikasi sebagai pilihan terbaik dalam kategori pembuat konten program. Alternatif pertama, A1, yang mewakili Pemrograman Web UNPAS, mendapat nilai 0.848. Alternatif kedua, A11, yang mewakili Dea Afrizal, mendapat nilai 0.435. Alternatif ketiga, A10, yang mewakili Dicoding Indonesia, mendapat nilai 0,405. Alternatif keempat, A9, yang mewakili Guntur Budi, memiliki nilai 0,367. Penelitian ini bertujuan untuk merancang dan mengimplementasikan sistem pendukung keputusan pemilihan program terbaik untuk content creator di YouTube dengan menggunakan metode MAUT. Hasil dari penelitian ini diharapkan dapat membantu peserta didik dalam menghemat waktu dan tenaga dalam mencari dan memilih program terbaik untuk pembuat konten sesuai dengan preferensi mereka.
+
+Audiences are more likely to find and comment favourably on content that is of good quality, provides valuable information, grabs their attention and is relevant to their needs.
